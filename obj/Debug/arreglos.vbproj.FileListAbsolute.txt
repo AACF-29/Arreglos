@@ -1,0 +1,10 @@
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\bin\Debug\arreglos.exe
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\bin\Debug\arreglos.pdb
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\bin\Debug\arreglos.xml
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.vbproj.AssemblyReference.cache
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.Resources.resources
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.vbproj.GenerateResource.cache
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.vbproj.CoreCompileInputs.cache
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.exe
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.xml
+C:\Users\aykel\Desktop\universidad\quinto semestre\app escritorio\Protectos\Visual studio\Nueva carpeta\arreglos\obj\Debug\arreglos.pdb
